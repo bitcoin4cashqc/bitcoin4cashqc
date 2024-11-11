@@ -16,7 +16,7 @@ I'm an enthusiast in technology and programming, with a particular focus on bloc
 
 ## Connect with Me
 
-{"Upwork":"https://www.upwork.com/fl/soliditysam","Twitter":"https://x.com/Btc4Cash/","Telegram (I have archive bro)":"https://t.me/SoliditySam"}
+(Upwork](https://www.upwork.com/fl/soliditysam) (Twitter](https://x.com/Btc4Cash/) (Telegram ... I have archive bro](https://t.me/SoliditySam)
 
 ## 
 
