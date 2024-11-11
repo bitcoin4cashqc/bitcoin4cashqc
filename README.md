@@ -8,7 +8,7 @@ I'm an enthusiast in technology and programming, with a particular focus on bloc
 
 ## Skills & Technologies
 
-bots,py,solidity,nodejs
+[![My Skills](https://skillicons.dev/icons?i=bots,py,solidity,nodejs&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
 
